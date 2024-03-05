@@ -1,0 +1,53 @@
+
+.wrapper.data-v-730c53a1 {
+  padding: 70rpx;
+}
+.wrapper .header-wrapper.data-v-730c53a1 {
+  background-color: #aabfeaf0;
+  border-radius: 60rpx;
+  color: #fff;
+  box-shadow: #d6d6d6 0 0 30rpx;
+  padding: 100rpx 100rpx;
+}
+.wrapper .header-wrapper .header-title.data-v-730c53a1 {
+  display: flex;
+  justify-content: space-around;
+}
+.wrapper .header-wrapper .header-text.data-v-730c53a1 {
+  font-size: 64rpx;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .data-wrapper.data-v-730c53a1 {
+  margin-top: 100rpx;
+  display: flex;
+  justify-content: center;
+}
+.wrapper .data-wrapper .data.data-v-730c53a1 {
+  background-color: #d6e4f1;
+  width: 400rpx;
+  height: 400rpx;
+  border-radius: 120rpx;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 120rpx;
+  box-shadow: #b8c2bb 0 10rpx;
+}
+.wrapper .data-wrapper .data .data-logo.data-v-730c53a1 {
+  height: 320rpx;
+  width: 400rpx;
+  margin-top: 52rpx;
+  justify-content: space-between;
+}
+.wrapper .data-wrapper .data .data-text.data-v-730c53a1 {
+  margin-top: 80rpx;
+  color: #ffffff;
+}
+.wrapper .data-wrapper .data .data-text .data-title.data-v-730c53a1 {
+  font-size: 60rpx;
+  text-align: rightS;
+}
+.wrapper .data-wrapper .data .data-text .data-value.data-v-730c53a1 {
+  font-size: 150rpx;
+}

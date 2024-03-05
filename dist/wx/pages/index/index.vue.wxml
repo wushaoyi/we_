@@ -1,0 +1,23 @@
+<template name="48964e28">
+  <view class="_div data-v-730c53a1 wrapper">
+    <view class="_div data-v-730c53a1 header-wrapper">
+      <view class="_div data-v-730c53a1 header-title"><label class="_span data-v-730c53a1">空气质量-良好</label> <label class="_span data-v-730c53a1">广州市</label></view>
+      <view class="_div data-v-730c53a1 header-text"><label class="_span data-v-730c53a1">55</label> <label class="_span data-v-730c53a1">阴</label></view>
+    </view>
+    <view class="_div data-v-730c53a1 body-wrapper">
+      <view class="_div data-v-730c53a1 body">
+        <view class="_div data-v-730c53a1 data-wrapper">
+          <view class="_div data-v-730c53a1 data">
+            <image class="_img data-v-730c53a1 data-logo" src="/static/images/door.png"></image>
+            <view class="_div data-v-730c53a1 data-text">
+              <view class="_div data-v-730c53a1 data-title">开关</view>
+              <view class="_div data-v-730c53a1 data-value">
+                <switch bindchange="handleProxy" checked="{{Door}}" color="#3d7ef6" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_switch data-v-730c53a1" />
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>
